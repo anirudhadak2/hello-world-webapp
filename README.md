@@ -17,4 +17,4 @@ webapp/src/main/webapp/tomcat9-webapp.png
 
 
 
-[![Image](https://github.com/yankils/hello-world-webapp/blob/master/tomcat9-webapp.png)
+[![Image](https://github.com/anirudhadak2/hello-world-webapp/blob/master/tomcat9-webapp.png)
